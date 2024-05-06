@@ -1,0 +1,35 @@
+_repo: Colour-vision-b-Being-the-Tyndall-Lectures-delivered-in-1894-at-the-Royal-Institution_73410
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Abney, William de Wiveleslie, Sir
+    aliases:
+    - Abney, W. de W. (William de Wiveleslie), Sir
+    - Abney, Captain
+    birthdate: 1843
+    deathdate: 1920
+    gutenberg_agent_id: '41716'
+    url: http://www.gutenberg.org/2009/agents/41716
+    wikipedia: https://en.wikipedia.org/wiki/William_de_Wiveleslie_Abney
+description: ''
+gutenberg_issued: '2024-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73410'
+language: en
+pgterms:marc905: 20130306075727abney
+pgterms:marc906: '1894'
+pgterms:marc907: US
+production_note: Chris Curnow and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York :$bWilliam Wood and Company, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Color vision'
+- !lcc 'QP'
+- GITenberg
+title: 'Colour vision : $b Being the Tyndall Lectures delivered in 1894 at the Royal
+  Institution'
+url: http://www.gutenberg.org/ebooks/73410
