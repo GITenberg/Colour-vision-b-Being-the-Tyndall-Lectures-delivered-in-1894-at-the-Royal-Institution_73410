@@ -1,5 +1,8 @@
 _repo: Colour-vision-b-Being-the-Tyndall-Lectures-delivered-in-1894-at-the-Royal-Institution_73410
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73410-h/images/cover.jpg
 creator:
   author:
     agent_name: Abney, William de Wiveleslie, Sir
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41716
     wikipedia: https://en.wikipedia.org/wiki/William_de_Wiveleslie_Abney
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73410#Colour-vision-b-Being-the-Tyndall-Lectures-delivered-in-1894-at-the-Royal-Institution
 gutenberg_issued: '2024-04-17'
 gutenberg_type: Text
 identifiers:
